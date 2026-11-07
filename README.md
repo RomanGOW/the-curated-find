@@ -3,12 +3,7 @@
 Static HTML/CSS website for The Curated Find Pin Publisher, an independently developed, personal-use application operated by [RomanGOW](https://github.com/RomanGOW).
 
 ## Hosting
-
-- Host: GitHub Pages (Deploy from branch `main`, folder `/ (root)`)
 - Repository: `RomanGOW/the-curated-find`
-- Custom domain: `thecuratedfind.homilab.site` (set in `CNAME`)
-- DNS: Cloudflare CNAME `thecuratedfind` → `romangow.github.io`, **DNS only (grey cloud)**
-- After the certificate is issued, enable **Settings → Pages → Enforce HTTPS**.
 
 ## Pages
 
